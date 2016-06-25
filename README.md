@@ -1,15 +1,15 @@
 # Contruyendo la primera_nave
 Ejercicio de construccion conjunta pagina de perfil y creacion de nave Pionera
 
-Tarea 1. En este repositorio encontrarán un archivo llamado 'index.html', esté archivo contiene un formato muy básico de una página web.
+##Tarea 1. En este repositorio encontrarán un archivo llamado 'nucleo.html', esté archivo contiene un formato muy básico de una página web.
 
-La página se compone de 3 elementos: 
+###La página se compone de 3 elementos: 
 
-Título de la página  <Nave Pionera>
+* Título de la página  <Nave Pionera>
 
-Un segundo título <Integrantes>
+* Un segundo título <Integrantes>
 
-y por último, una lista con el nombre de cada integrante 
+* y por último, una lista con el nombre de cada integrante 
 <Soy Pionera>
 
 La idea es que cada persona, se agregué a esa lista de integrantes, y a la vez genere un hipervínculo dentro del nombre, para mostrar un perfil, donde cada un@, responda a las siguientes preguntas.
