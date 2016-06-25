@@ -1,7 +1,7 @@
 # Contruyendo la primera_nave
 Ejercicio de construccion conjunta pagina de perfil y creacion de nave Pionera
 
-##Tarea 1. En este repositorio encontrarán un archivo llamado 'nucleo.html', esté archivo contiene un formato muy básico de una página web.
+Tarea 1. En este repositorio encontrarán un archivo llamado 'nucleo.html', esté archivo contiene un formato muy básico de una página web.
 
 ###La página se compone de 3 elementos: 
 
